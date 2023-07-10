@@ -24,6 +24,20 @@ UserScript that adds a clock emoji button next to "Blog". Click it and will take
 
 - Same method. Install "[AddRecentblogButton.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/AddRecentblogButton.user.js)". You can also copy the code from the file and add it manually.
 
+  
+# SpaceHey - Hide layout (aka. SpaceBye)
+UserScript that can hide most of custom CSS, i.e. layouts.
+
+### How
+- Just CSS rules, mainly. Most of CSS and HTML the user puts in "About Me" should be hidden. This includes (but not limited to) custom cursor, snowflakes, pfp animations or custom shapes, custom backgrounds, custom color, and custom overlays. Not sure about embeds or audio files. NOTE: This script will not prevent the loading of any extra resources (be it the css itself or images). The CSS itself will be loaded successfully, and then this script will be applied (it has a two second delay). Why? Simple, this is not a content blocker but simply a hider. The user custom css must load successfully before it can be hidden or it may fail.
+
+### Why
+- No sad backstory here, this was just a test. I know this is like a blasphemy against the entire profile custom stuff. I will not add any specific button or function within the website itself to enable or disable this, so you must handle it from your userscript manager.
+
+### Install
+
+- Same method. Install "[spacebye_hidecss.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/spacebye_hidecss.user.js)". You can also copy the code from the file and add it manually.
+
 
 ## ⚠Extra notes
 
