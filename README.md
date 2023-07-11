@@ -1,3 +1,5 @@
+[🔗SpaceHey post](https://blog.spacehey.com/entry?id=797632). It contains extra information, ideas and so on. Don't expect to find direct links to the scripts or their code there, this is more of an "promotion" post if you can say it that way. For questions, bug reports and the like, there is a link to send me a DM which I will keep an eye on as long as I use the site. I will keep the post updated if anything new comes up here.
+
 # SpaceHey-EnterKeyFix
 UserScript that allows you to send a chat message by pressing the "enter" key instead of using SpaceHey default crap.
 
