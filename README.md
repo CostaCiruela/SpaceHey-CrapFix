@@ -40,6 +40,18 @@ UserScript that can hide most of custom CSS, i.e. layouts.
 
 - Same method. Install "[spacebye_hidecss.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/spacebye_hidecss.user.js)". You can also copy the code from the file and add it manually.
 
+# [CSS]SpaceHey - Properly hide the friend list
+Basic CSS to properly hide your friend list.
+
+### How
+- Ok, this is extremely basic but it simply allows you to hide your friends list with CSS, including: The section itself, number of friends, names and pfps, and so on.
+
+### Why
+- All the current codes I found are either incomplete, or they don't work to hide number of friends, pfps, or they remove the entire friends section INCLUDING comments, which is not the idea here.
+
+### Usage
+
+- Paste the [CSS](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/hidefriendlist.css) code while editing your profile in "About Me".
 
 ## ⚠Extra notes
 
