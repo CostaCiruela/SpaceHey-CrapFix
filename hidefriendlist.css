@@ -1,0 +1,7 @@
+<style>
+.friends .friends-grid,
+.friends .heading,
+.friends .inner > p {
+    display: none !important;
+}
+</style>
