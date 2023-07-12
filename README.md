@@ -53,6 +53,19 @@ Basic CSS to properly hide your friend list.
 
 - Paste the [CSS](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/hidefriendlist.css) code while editing your profile in "About Me".
 
+# SpaceHey - Get free Support badge
+Locally add a support badge to profiles. Visual thing only.
+
+### How
+- Basically it adds the support badge element to your profile, but locally. It will be saved on the profiles you add it to. Other users can't see the badge, this is just a visual thing and, again, local. You can add the badge with CTRL+0. I haven't added a way to revert it due to laziness and it doesn't work on profiles with custom user IDs, only those with numeric ones. **Expect bugs, this was highly experimental.**
+
+### Why
+- Holy fuck this one almost made me lose my sanity I hate JS I swear to god. It's just a test that I started for fun and almost stopped in the middle because I couldn't get decent results.
+
+### Install
+
+- Same method. Install "[freesupportbadge.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/freesupportbadge.user.js)". You can also copy the code from the file and add it manually.
+
 ## ⚠Extra notes
 
 - "Does this violate the ToS or rules? Will I be banned if I use these scripts?" Short answer is no. I don't want to share this in Spacehey itself because moderation sucks and users are really dumb, so answering their doubts would be stressing af. You can read the Tos and Rules, and find stuff like "NO JS ALLOWED" but thats there for the safety of the users and talks about JS modifications that affect **everyone**, this scripts are client-side only. Also, it talks about not using anything regarding the API and stuff like that but that's not the case here either, I don't need to access the site API to do any of this or to ensure it works. So yeah relax.
