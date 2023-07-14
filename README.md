@@ -66,6 +66,20 @@ Locally add a support badge to profiles. Visual thing only.
 
 - Same method. Install "[freesupportbadge.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/freesupportbadge.user.js)". You can also copy the code from the file and add it manually.
 
+# SpaceHey - Home Debloat
+Hide certain "home" page useless shit.
+
+### How
+- Basic hider stuff.
+
+### Why
+- The homepage is full of crap that does not concern the user. By installing this script, you can hide things related to donations and merchandise while keeping the important announcements. It removes the "My URL" part, because you can literally see it in the "View Profile" button below. It will hide the "latest entries" part in case you have not posted any blog. Overall, this will make the homepage more compact and cleaner.
+
+### Install
+
+- Same method. Install "[spaceheyhomedebloat.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/spaceheyhomedebloat.user.js)". You can also copy the code from the file and add it manually.
+
+
 ## ⚠Extra notes
 
 - "Does this violate the ToS or rules? Will I be banned if I use these scripts?" Short answer is no. I don't want to share this in Spacehey itself because moderation sucks and users are really dumb, so answering their doubts would be stressing af. You can read the Tos and Rules, and find stuff like "NO JS ALLOWED" but thats there for the safety of the users and talks about JS modifications that affect **everyone**, this scripts are client-side only. Also, it talks about not using anything regarding the API and stuff like that but that's not the case here either, I don't need to access the site API to do any of this or to ensure it works. So yeah relax.
