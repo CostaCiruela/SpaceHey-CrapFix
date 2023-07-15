@@ -1,10 +1,12 @@
 [🔗SpaceHey post](https://blog.spacehey.com/entry?id=797632). It contains extra information, ideas and so on. Don't expect to find direct links to the scripts or their code there, this is more of an "promotion" post if you can say it that way. For questions, bug reports and the like, there is a link to send me a DM which I will keep an eye on as long as I use the site. I will keep the post updated if anything new comes up here.
 
-# SpaceHey-EnterKeyFix
+<details>
+<summary>SpaceHey-EnterKeyFix</summary>
+
 UserScript that allows you to send a chat message by pressing the "enter" key instead of using SpaceHey default crap.
 
 ### How
-- I used the default FireFox tools to check the default JavaScript used by the chat client to find out a few things and the rest is just basic shit.
+- I used the default FireFox tools to check the JavaScript used by the chat client to find out a few things and the rest is just basic shit.
 
 ### Why
 - I'm fucking tired of clicking the SEND icon or having to press CTRL+ENTER all the time. Decent, normal websites let you press Enter to send the message, but SpaceHey seems to like being a prick. Now you can type anything to any user, then press ENTER, and the message will be sent. You can still make a new line of text by holding SHIFT and then ENTER.
@@ -12,9 +14,10 @@ UserScript that allows you to send a chat message by pressing the "enter" key in
 ### Install
 
 - If you are not dumb or blind, I think you can assume with common sense that you can open the file called "[spaceheyshit.user.js](https://github.com/CostaCiruela/SpaceHey-EnterKeyFix/raw/main/spaceheyshit.user.js)" and install it with some extension like Tampermonkey or similar. You can also copy the code from the file and add it manually.
-
-# SpaceHey-Recent blogs "button"
-UserScript that adds a clock emoji button next to "Blog". Click it and will take you to Recent blogs.
+</details>
+<details>
+<summary>SpaceHey-Recent blogs button</summary>
+UserScript that adds a clock button button next to "Blog". Click it and will take you to Recent blogs.
 
 ### How
 - Basic redirect shit, no need to explain. I added comments to the code so you bitches can stop crying about "bwah bwah what if this is malware". My brother in christ you can literally see the code HERE and wathever script addon you are using.
@@ -25,9 +28,10 @@ UserScript that adds a clock emoji button next to "Blog". Click it and will take
 ### Install
 
 - Same method. Install "[AddRecentblogButton.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/AddRecentblogButton.user.js)". You can also copy the code from the file and add it manually.
+</details>
 
-  
-# SpaceHey - Hide layout (aka. SpaceBye)
+<details>
+<summary>SpaceHey - Hide layout (aka. SpaceBye)"</summary>
 UserScript that can hide most of custom CSS, i.e. layouts.
 
 ### How
@@ -39,8 +43,9 @@ UserScript that can hide most of custom CSS, i.e. layouts.
 ### Install
 
 - Same method. Install "[spacebye_hidecss.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/spacebye_hidecss.user.js)". You can also copy the code from the file and add it manually.
-
-# [CSS]SpaceHey - Properly hide the friend list
+</details>
+<details>
+<summary>[CSS] SpaceHey - Properly hide the friend list</summary>
 Basic CSS to properly hide your friend list.
 
 ### How
@@ -52,8 +57,9 @@ Basic CSS to properly hide your friend list.
 ### Usage
 
 - Paste the [CSS](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/hidefriendlist.css) code while editing your profile in "About Me".
-
-# SpaceHey - Get free Support badge
+</details>
+<details>
+<summary>SpaceHey - Get free Support badge</summary>
 Locally add a support badge to profiles. Visual thing only.
 
 ### How
@@ -65,8 +71,9 @@ Locally add a support badge to profiles. Visual thing only.
 ### Install
 
 - Same method. Install "[freesupportbadge.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/freesupportbadge.user.js)". You can also copy the code from the file and add it manually.
-
-# SpaceHey - Home Debloat
+</details>
+<details>
+<summary>SpaceHey - Home Debloat</summary>
 Hide certain "home" page useless shit.
 
 ### How
@@ -78,7 +85,22 @@ Hide certain "home" page useless shit.
 ### Install
 
 - Same method. Install "[spaceheyhomedebloat.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/spaceheyhomedebloat.user.js)". You can also copy the code from the file and add it manually.
+</details>
 
+<details>
+<summary>SpaceHey - Recent forums button</summary>
+UserScript that adds a clock button button next to each forum category. Click it and will take you to Recent forum section.
+
+### How
+- Basically the code automatically detects the URL and categories on the forum, and adds the recent part and so on. This one was a bit tricky because for some reason, the stupid useless fucking idiots added basically EVERYTHING inside h3.
+
+### Why
+- I had this in mind since I added the recent blog button.
+
+### Install
+
+- Same method. Install "[recentbutton_forums.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/recentbutton_forums.user.js)". You can also copy the code from the file and add it manually.
+</details>
 
 ## ⚠Extra notes
 
