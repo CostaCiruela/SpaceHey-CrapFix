@@ -115,6 +115,20 @@ aka. SpaceHeyFriendAdd JS Edition. UserScript that accepts all friend requests f
 
 - Same method. Install "[auto_acceptfriendsrequests.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/auto_acceptfriendsrequests.user.js)". You can also copy the code from the file and add it manually.
 </details>
+<details>
+<summary>SpaceHey - Blog comments Image Viewer (WIP)</summary>
+Display direct image links in blog comments as images.
+
+### How
+- This will read all direct links in your comment, and display THE FRIST LINK as an image. Supports GIF, JPEG, JPG, PNG. Will work with Imgur, but don't use that shit. **Had issues so still a WIP.** For now, only one image will be converted and displayed. The report button was fucking the entire code so I converted it into a normal link because Im too lazy to fix it. Again, these stupid assholes put the entire site inside a same fucking element for some reason. Happened with the auto accept thing, blogs category, now this. Idk anymore. Disappointed but not surprised.
+
+### Why
+- This should be included into the site by default, not sure why this pricks aren't adding images to comments when it's basic stuff at this point. There are probably addons out there that converts direct image links to ...well, normal images. I would say use that instead, this is still buggy.
+
+### Install
+
+- Same method. Install "[imagesincomments_WIP.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/imagesincomments_WIP.user.js)". You can also copy the code from the file and add it manually.
+</details>
 
 ## ⚠Extra notes
 
