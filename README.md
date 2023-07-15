@@ -31,7 +31,7 @@ UserScript that adds a clock button button next to "Blog". Click it and will tak
 </details>
 
 <details>
-<summary>SpaceHey - Hide layout (aka. SpaceBye)"</summary>
+<summary>SpaceHey - Hide layout (aka. SpaceBye)</summary>
 UserScript that can hide most of custom CSS, i.e. layouts.
 
 ### How
@@ -100,6 +100,20 @@ UserScript that adds a clock button button next to each forum category. Click it
 ### Install
 
 - Same method. Install "[recentbutton_forums.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/recentbutton_forums.user.js)". You can also copy the code from the file and add it manually.
+</details>
+<details>
+<summary>SpaceHey - Auto accept friend requests</summary>
+aka. SpaceHeyFriendAdd JS Edition. UserScript that accepts all friend requests for u.
+
+### How
+- This will "click" the "Accept all requests" button at your requests page when you visit it automatically when you have one or more requests. At first, I was trying to match the og Python code, to be as faithful to the original idea as possible, and although I achieved decent results, it didn't work correctly with more than one request. I made this instead, which is easier.
+
+### Why
+- I had from the beginning the idea to adapt their code to a userscript, because I found it interesting, and it's one of the few real, original projects that are not a layout dump spamming here on github. This is an adaptation of the original [acatron code](https://github.com/acatron/SpaceHeyFriendAdd). Basically, it fulfils the same function, although it doesn't have the same features (for example, I have omitted the automatic page reloading). *I must thank a close friend who I annoyed to help me in testing this.*
+
+### Install
+
+- Same method. Install "[auto_acceptfriendsrequests.user.js](https://github.com/CostaCiruela/SpaceHey-CrapFix/raw/main/auto_acceptfriendsrequests.user.js)". You can also copy the code from the file and add it manually.
 </details>
 
 ## ⚠Extra notes
